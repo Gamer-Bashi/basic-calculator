@@ -1,4 +1,4 @@
 # basic-calculator
 یه ماشین حساب تحت وب بسیار ساده
-##Demo
+# Demo
 https://gamer-bashi.github.io/basic-calculator/
